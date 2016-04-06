@@ -1,4 +1,4 @@
-package com.vogella.gae.java.todo;
+package share;
 import java.util.logging.Logger;
 
 //assumes the current class is called logger

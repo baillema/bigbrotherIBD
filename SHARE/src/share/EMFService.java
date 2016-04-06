@@ -1,4 +1,4 @@
-package com.vogella.gae.java.todo;
+package share;
 
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;

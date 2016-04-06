@@ -1,11 +1,11 @@
-package com.vogella.gae.java.todo;
+package share;
 
 import java.util.List;
 
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
 
-import com.vogella.gae.java.todo.Todo;
+import share.Todo;
 
 public enum Dao {
   INSTANCE;

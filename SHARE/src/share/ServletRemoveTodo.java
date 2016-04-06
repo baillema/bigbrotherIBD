@@ -1,4 +1,4 @@
-package com.vogella.gae.java.todo;
+package share;
 
 import java.io.IOException;
 
@@ -6,7 +6,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.vogella.gae.java.todo.Dao;
+import share.Dao;
 
 public class ServletRemoveTodo extends HttpServlet {
   private static final long serialVersionUID = 1L;
