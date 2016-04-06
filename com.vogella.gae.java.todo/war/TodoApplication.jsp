@@ -14,7 +14,7 @@
 <html>
   <head>
     <title>Todos</title>
-    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
       <meta charset="utf-8"> 
   </head>
   <body>
